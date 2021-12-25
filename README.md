@@ -9,6 +9,7 @@ jmeter -n -t customer_Information_jmeter.jmx -l log.csv -e -o Reports
 ````
 
 
+![2021-12-25 (1)](https://user-images.githubusercontent.com/96378175/147389507-a7730908-841f-465c-afd6-a398c3588ba5.png)
 
-![2021-12-25](https://user-images.githubusercontent.com/96378175/147385748-f207e501-1796-4998-bf96-4d6908d14638.png)
+
 
